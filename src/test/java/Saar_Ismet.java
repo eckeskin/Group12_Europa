@@ -10,6 +10,8 @@ public class Saar_Ismet {
         System.out.print("Please enter a city: ");
         String city = scan.nextLine();
         System.out.println("city = " + city);
+        System.out.println("town = " + town);
+        
 
     }
 
